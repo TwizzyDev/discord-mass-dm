@@ -27,7 +27,7 @@ Supports token & email:pass:token formats
 Compatible with all major OS and Architectures
 Proxyless
 Supports HTTP(s), SOCKS5 and SOCKS4 proxies
-Free & Open source
+Free & Open source.
 Emulates Discord's requests to a very high accuracy to prevent detection
 Highly Documented
 Multi-threaded using Light-weight Goroutines supporting thousands of concurrent accounts
