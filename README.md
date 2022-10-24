@@ -1,5 +1,5 @@
 Tweet is a Multi-threaded Discord Self-Bot primarily used for mass messaging users on Discord. It has numerous other quality features to enhance the user experience and allowing the user to target the most users. This is the enhanced version and can DM 4k users using aged token 😄
-
+![](https://github.com/TwizzyDev/Tweet-MassDM/blob/ec89bd2e3c119591977f61dda7d0e855602f319b/20221024_194216.png)
 Token Utilities
 Avatar Changer
 Username Changer
